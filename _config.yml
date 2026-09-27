@@ -1,1 +1,7 @@
-jekyll-theme-minima
+title: Connor Cassidy
+description: Personal website and blog
+author: Connor Cassidy
+url: "https://connorjcassidy.github.io"
+baseurl: ""
+theme: minima
+markdown: kramdown
