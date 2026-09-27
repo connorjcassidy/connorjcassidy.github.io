@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 [Circularly Polarized XUV Photoionization Time Delays](/August%202026%20Data%20Presentation%20(5).pdf)<br>
-Data Presentation at Ohio State AMO Journal Club
+Data Presentation at Ohio State AMO Journal Club, August 2026
 
 [The Role of Single Pion Exchange in
 the Binding of the Omega Meson](/Honors%20Thesis%20-%20Connor%20Cassidy.pdf)<br>
