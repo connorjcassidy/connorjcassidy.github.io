@@ -6,3 +6,8 @@ markdown: kramdown
 
 header_pages:
   - research.md
+  - talks.md
+  - teaching.md
+  - counties.md
+  - metroparks.md
+  - blog.md
