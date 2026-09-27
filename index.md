@@ -17,3 +17,8 @@ County Collecting:
 Columbus Metropark Ranking:
 
 test!! test agani!
+
+Hi! I am a physics PhD student at Ohio State. This is my personal website that I made for both physics and personal stuff.
+
+![My gif](./njflag.gif)
+
