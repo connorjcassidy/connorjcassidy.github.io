@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Teaching
-permalink: /Teaching/
+permalink: /teaching/
 ---
 
-Your research content here...
-
+Physics 1200 <br>
+Office Hours: <br>
+Thursdays 4-5 PM <br>
+Thursdays 2-3 PM <br>
+Physics Research Building Room 3004
