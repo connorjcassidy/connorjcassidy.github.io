@@ -1,5 +1,4 @@
 ---
-title: Connor J. Cassidy
 theme: minima
 ---
 
