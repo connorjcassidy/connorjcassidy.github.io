@@ -3,3 +3,6 @@ url: "https://connorjcassidy.github.io"
 baseurl: ""
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - research.md
